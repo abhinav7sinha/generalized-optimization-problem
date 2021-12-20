@@ -1,0 +1,30 @@
+[Command: /Users/abhinav/opt/anaconda3/bin/python -u /Users/abhinav/Documents/Codebase/B551/Assignments/aganapa-jdevanir-sinhabhi-a1/part3/sampleTestingAss1.py]
+Start Solve:
+[[10.0, ['zhao']]]
+small: 1
+memList: 12
+small: 2
+memList: 11
+small: 5
+memList: 10
+small: 14
+memList: 9
+small: 46
+memList: 8
+small: 166
+memList: 7
+small: 652
+memList: 6
+small: 2780
+memList: 5
+small: 12644
+memList: 4
+small: 61136
+memList: 3
+small: 312676
+memList: 2
+small: 1680592
+memList: 1
+Took 698.3805129528046 Seconds
+{'assigned-groups': ['zhao-djcran-sulagaop', 'sun-li-qian', 'zhou-fanjun', 'zheng-sahmaini-vkvats', 'wu-nthakurd'], 'total-cost': 43.0}
+[Finished in 731.719s]
